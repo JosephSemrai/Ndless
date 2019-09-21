@@ -185,7 +185,7 @@ function drawMainView(gc)
 
             gc:setFont("serif", "r", 11)
             gc:setColorRGB(0, 255, 0)
-            gc:drawString("Ndless installed!", 46, 114, "top")
+            gc:drawString("_JS", 46, 114, "top")
 
             gc:setFont("sansserif", "r", 9)
             gc:setColorRGB(0xDD, 0xFF, 0xDD)
